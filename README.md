@@ -152,7 +152,9 @@ Hurray! You successfully made a contribution!
 - ### **Q**
 
 - ### **R**
-
+  
+  - [Rs_Durvesh](https://github.com/DurveshKumarPal)
+  
 - ### **S**
 
   - [Saurav Mukherjee](https://github.com/SauravMukherjee44)
